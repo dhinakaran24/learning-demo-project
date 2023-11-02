@@ -1,0 +1,17 @@
+wee nee too run in 2 seperate terminals
+
+they are:
+frontend for client and
+backend for server.
+
+client(commands)
+     1.cd shoppie
+     2.cd client
+     3.npm i --force or npm install ( this command for first time install this project)
+     4.npm start 
+
+server(commands)
+    1.cd shoppie
+    2.cd server
+    3.npm i --force or npm install ( this command for first time install this project)
+    4.npm run start:dev    
